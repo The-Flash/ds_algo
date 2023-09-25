@@ -1,3 +1,4 @@
+# O(n) time | O(n) space
 def invertBinaryTree(tree):
     queue =[tree]
     while len(queue):
